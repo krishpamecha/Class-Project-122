@@ -1,0 +1,33 @@
+body
+{
+    background: rgb(73,255,26);
+background: linear-gradient(90deg, rgba(73,255,26,1) 7%, rgba(0,0,0,1) 86%);
+	text-align: center;
+}
+
+.header
+{
+    color: rgb(0, 0, 0);
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+}
+
+.btn
+{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+    border: 5px;
+    border-style: dashed;
+}
+span
+{
+    font-family: 'Foldit', cursive;
+    font-size: 20px;
+    color: yellow;
+}
+canvas
+{
+	background: rgb(222,222,222);
+background: linear-gradient(90deg, rgba(222,222,222,1) 15%, rgba(153,153,153,1) 86%);
+	border-radius: 20px;
+}
